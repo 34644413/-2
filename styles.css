@@ -9,6 +9,21 @@ body {
     height: 100vh;
 }
 
+.Photo{
+    margin-top: 12px;
+    width: 130px;
+    height: 130px;
+    overflow: hidden;
+    border-radius: 65px;
+    border: solid 2px #ffffff;
+}
+
+.MyPhoto{
+    width: 130px;
+    height: 130px;
+    margin: 0 auto;
+}
+
 .resume {
     background-color: #1a1a1a;
     color: #ffffff;
